@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+chroma_db/
+pr_review.db
+*.log
+.DS_Store
+ngrok
+ngrok.exe
+*.tgz
+dist/
+build/
+*.egg-info/
+.pytest_cache/
